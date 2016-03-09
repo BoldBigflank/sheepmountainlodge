@@ -24,7 +24,7 @@ comments: []
         </div>
 <div class="col-lg-4">
 <p>You will never be bored at this lodge, there is just too much to do!  Arrange business meetings, family gatherings, weddings, or other group activities here.  Perhaps you would rather make it your personal getaway.  Sheep Mountain Lodge is ready to help in any situation.</p>
-<p>          <a class="btn btn-primary btn-lg" href="/contact">Book Now!</a>
+<p>          <a class="btn btn-primary btn-lg" href="/book">Book Now!</a>
         </div>
 </p></div>
 <hr>
