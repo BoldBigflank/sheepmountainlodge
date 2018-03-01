@@ -18,6 +18,7 @@ categories: []
 tags: []
 comments: []
 ---
+<link href="stylesheets/carousel.css" rel="stylesheet">
 <div class="row">
     <div id="carousel-example-generic" class="col-sm-8 col-sm-offset-2 carousel slide" data-ride="carousel" style="">
         <ol class="carousel-indicators">
