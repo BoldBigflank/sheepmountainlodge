@@ -29,7 +29,7 @@ comments: []
 <a class="btn btn-info" href="mailto:kphbc@earthlink.net?subject=Sheep Mountain Lodge" target="_blank">Email us</a>
 </div>
 <div class="col-md-4">
-<img class="img-responsive img-rounded" src="images/contact-side.png" alt="Perry Jones" />
+<img class="img-responsive img-rounded" src="../images/contact-side.png" alt="Perry Jones" />
 </div>
 </div>
 </div>
