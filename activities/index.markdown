@@ -20,7 +20,7 @@ comments: []
 ---
 <div class="row">
 <div class="col-lg-8">
-          <img class="img-responsive img-rounded" src="/images/activities.png"><!-- take out img-rounded if you don't want the rounded corners on the image -->
+          <img class="img-responsive img-rounded" src="images/activities.png"><!-- take out img-rounded if you don't want the rounded corners on the image -->
         </div>
 <div class="col-lg-4">
 <p>You will never be bored at this lodge, there is just too much to do!  Arrange business meetings, family gatherings, weddings, or other group activities here.  Perhaps you would rather make it your personal getaway.  Sheep Mountain Lodge is ready to help in any situation.</p>
