@@ -49,82 +49,82 @@ comments: []
     <li data-target="#carousel-example-generic" data-slide-to="25"></li>
     </ol>
     <div class="carousel-inner">
-    <div class="item active"><img class="img-responsive" src="images/IMG_8533.jpg" alt="...">
+    <div class="item active"><img class="img-responsive" src="../images/IMG_8533.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8550.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8550.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8586.jpg" alt="Bedroom">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8586.jpg" alt="Bedroom">
     <div class="carousel-caption">Bedroom</div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8588.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8588.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8603.jpg" alt="Bar">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8603.jpg" alt="Bar">
     <div class="carousel-caption">Bar</div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8619.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8619.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8629.jpg" alt="Log Lodge Fireplace">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8629.jpg" alt="Log Lodge Fireplace">
     <div class="carousel-caption">Log Lodge Fireplace</div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8632.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8632.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8634.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8634.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8636.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8636.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8642.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8642.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8645.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8645.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8654.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8654.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8660.jpg" alt="Mineshaft path">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8660.jpg" alt="Mineshaft path">
     <div class="carousel-caption">Mineshaft path</div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8661.jpg" alt="Overlooking the bar">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8661.jpg" alt="Overlooking the bar">
     <div class="carousel-caption">Overlooking the bar</div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8937.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8937.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8959.jpg" alt="Backyard">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8959.jpg" alt="Backyard">
     <div class="carousel-caption">Backyard</div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8969.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8969.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8977.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8977.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_8986.jpg" alt="Bears">
+    <div class="item"><img class="img-responsive" src="../images/IMG_8986.jpg" alt="Bears">
     <div class="carousel-caption">Bears</div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_9020.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_9020.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_9037.jpg" alt="Main Room">
+    <div class="item"><img class="img-responsive" src="../images/IMG_9037.jpg" alt="Main Room">
     <div class="carousel-caption">Main Room</div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_9041.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_9041.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_9062.jpg" alt="Bed">
+    <div class="item"><img class="img-responsive" src="../images/IMG_9062.jpg" alt="Bed">
     <div class="carousel-caption">Bed</div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_9071.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_9071.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
-    <div class="item"><img class="img-responsive" src="images/IMG_9088.jpg" alt="...">
+    <div class="item"><img class="img-responsive" src="../images/IMG_9088.jpg" alt="...">
     <div class="carousel-caption"></div>
     </div>
     <p>    <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev"><br />
